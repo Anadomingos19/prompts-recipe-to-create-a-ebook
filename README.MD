@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [CANVA](https://www.canva.com/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,20 +40,24 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Estou criando um ebook sobre como o acesso a moradia digna reflete em outras áreas como saúde e ducação. Por favor crie um título que seja curto e impactante.                                                   |
+| conteúdo | Faça um texto para ebook, sobre o papel dos programas sociais no acesso a moradia digna e como isso reflete em outras áreas como saúde e educação e de acesso
+{REGRAS}
+>Escreva sempre de uma maneira simples
+>Deixe o texto enxuto
+>Sempre deixe um titulo sugestivo por tópico |
 
 
-Midjourney：
+CANVA：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Crie a imagem de uma familia de 4  pessoas negras em frente a uma casa não muito sofisticada e segurando chaves sugerindo a conquista da casa própria |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via CANVA
 
 ## 📚 Materiais
 
